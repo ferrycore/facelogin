@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../aip-java-sdk-3/aip-java-sdk-3.3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../aip-java-sdk-3/json-20160810.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../webcam-capture-0.3.12-20171213.184454-7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../javacv-bin/artoolkitplus-android-arm.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/artoolkitplus-android-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/artoolkitplus-linux-armhf.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/artoolkitplus-linux-ppc64le.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/artoolkitplus-linux-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/artoolkitplus-linux-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/artoolkitplus-macosx-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/artoolkitplus-windows-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/artoolkitplus-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/artoolkitplus.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/ffmpeg-android-arm.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/ffmpeg-android-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/ffmpeg-linux-armhf.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/ffmpeg-linux-ppc64le.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/ffmpeg-linux-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/ffmpeg-linux-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/ffmpeg-macosx-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/ffmpeg-windows-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/ffmpeg-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/ffmpeg.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flandmark-android-arm.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flandmark-android-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flandmark-linux-armhf.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flandmark-linux-ppc64le.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flandmark-linux-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flandmark-linux-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flandmark-macosx-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flandmark-windows-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flandmark-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flandmark.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flycapture-linux-armhf.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flycapture-linux-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flycapture-linux-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flycapture-windows-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flycapture-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/flycapture.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/javacpp.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/javacv.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libdc1394-linux-armhf.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libdc1394-linux-ppc64le.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libdc1394-linux-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libdc1394-linux-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libdc1394-macosx-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libdc1394-windows-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libdc1394-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libdc1394.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libfreenect-linux-armhf.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libfreenect-linux-ppc64le.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libfreenect-linux-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libfreenect-linux-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libfreenect-macosx-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libfreenect-windows-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libfreenect-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libfreenect.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libfreenect2-linux-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libfreenect2-linux-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/libfreenect2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/librealsense-linux-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/librealsense-linux-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/librealsense.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/opencv-android-arm.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/opencv-android-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/opencv-linux-armhf.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/opencv-linux-ppc64le.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/opencv-linux-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/opencv-linux-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/opencv-macosx-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/opencv-windows-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/opencv-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/opencv.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/videoinput-windows-x86_64.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/videoinput-windows-x86.jar!/" />
+          <root url="jar://$MODULE_DIR$/../javacv-bin/videoinput.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../javacv-bin/samples" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.2" level="project" />
+  </component>
+</module>
